@@ -1,0 +1,1041 @@
+2020-07-15 15:58:50 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 15:58:55 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 15:58:58 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 15:59:02 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 15:59:03 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 15:59:06 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 15:59:13 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:02:46 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:02:48 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:02:51 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:02:54 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:02:55 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:02:58 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:03:00 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:03:01 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 16:03:03 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 16:10:48 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:10:53 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:10:56 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:11:00 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:11:01 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:11:04 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:11:06 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:11:08 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 16:11:11 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 16:13:41 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:13:46 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:13:48 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:13:52 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:13:53 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:13:56 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:13:58 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:14:00 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-15 16:14:03 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-15 16:21:06 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:21:11 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:21:13 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:21:17 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:21:18 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:21:20 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:21:22 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:21:23 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 16:21:26 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 16:22:23 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:22:28 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:22:31 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:22:34 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:22:34 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:22:37 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:22:39 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:22:40 [main] ERROR UdemyTest:113 - Wrong course is searched
+2020-07-15 16:22:42 [main] ERROR UdemyTest:125 - filter for level selected is wrong
+2020-07-15 16:40:42 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:40:45 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:40:47 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:40:50 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:40:51 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:40:54 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:40:55 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:40:59 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 16:43:31 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:43:37 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:43:40 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:43:44 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:43:45 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:43:47 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:43:49 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:43:50 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 16:43:52 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 16:48:34 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 16:48:41 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 16:48:43 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 16:48:48 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 16:48:48 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 16:48:50 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 16:48:52 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 16:48:53 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 16:48:56 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 17:00:56 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 17:01:00 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 17:01:02 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 17:01:07 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 17:01:08 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 17:01:09 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 17:01:11 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 17:01:12 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 17:01:14 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 17:48:45 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 17:48:48 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 17:48:50 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 17:48:55 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 17:48:56 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 17:48:59 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 17:49:04 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 17:49:08 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 17:52:24 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 17:52:26 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 17:52:28 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 17:52:34 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 17:52:37 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 17:52:39 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 17:52:42 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 17:52:46 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 17:52:49 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 17:55:48 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 17:55:52 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 17:55:55 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 17:55:59 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 17:55:59 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 17:56:01 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 17:56:03 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 17:56:04 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 17:56:06 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 17:56:08 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 17:57:00 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 17:57:04 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 17:57:07 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 17:57:11 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 17:57:11 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 17:57:14 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 17:57:15 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 17:57:18 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 17:57:21 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 17:58:55 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 17:58:59 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 17:59:02 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 17:59:05 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 17:59:06 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 17:59:08 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 17:59:10 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 17:59:13 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 17:59:14 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 18:01:32 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 18:01:38 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 18:01:41 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 18:01:47 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 18:01:49 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 18:01:51 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 18:01:53 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 18:01:54 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 18:01:57 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 18:01:59 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 18:43:53 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 18:43:58 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 18:44:01 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 18:44:04 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 18:44:06 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 18:45:30 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 18:45:35 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 18:45:37 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 18:45:42 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 18:45:42 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 18:45:45 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 18:45:47 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 18:45:48 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 18:45:50 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 18:45:53 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 18:50:33 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 18:50:39 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 18:50:42 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 18:50:46 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 18:50:47 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 18:50:49 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 18:50:51 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 18:50:53 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 18:50:55 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 18:50:57 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 18:52:10 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 18:52:15 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 18:52:18 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 18:52:22 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 18:52:22 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 18:52:25 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 18:52:27 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 18:52:28 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 18:52:30 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 18:52:32 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 18:53:54 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-15 18:53:57 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-15 18:53:59 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-15 18:54:03 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-15 18:54:03 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-15 18:54:06 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-15 18:54:08 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-15 18:54:09 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-15 18:54:11 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-15 18:54:13 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-15 19:13:18 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-15 19:13:23 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-15 19:13:25 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-15 19:13:29 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-15 19:13:30 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-15 19:13:32 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-15 19:13:34 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-15 19:13:35 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-15 19:13:37 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-15 19:15:58 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-15 19:16:07 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-15 19:16:10 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-15 19:16:12 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-15 19:16:13 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-15 19:16:15 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-15 19:16:17 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-15 19:16:18 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-15 19:16:19 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-15 19:16:22 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-15 20:14:53 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-15 20:14:56 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-15 20:14:58 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-15 20:15:04 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-15 20:15:05 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-15 20:15:08 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-15 20:15:13 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-15 20:15:14 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-15 20:15:17 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-15 20:15:19 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-15 20:29:10 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-15 20:29:20 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-15 20:29:22 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-15 20:29:26 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-15 20:29:27 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-15 20:29:30 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-15 20:29:32 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-15 20:29:33 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-15 20:29:35 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-15 20:29:37 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-15 20:47:41 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-15 20:47:41 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-15 20:47:43 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-16 13:26:47 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-16 13:26:48 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-16 13:26:50 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-16 15:25:04 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-16 15:25:07 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-16 15:25:10 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-16 15:25:16 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-16 15:25:16 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-16 15:25:18 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-16 15:25:23 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-16 15:25:24 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-16 15:25:25 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-16 15:25:27 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-16 15:29:52 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-16 15:29:55 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-16 15:29:58 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-16 15:30:04 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-16 15:30:05 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-16 15:30:09 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-16 15:30:11 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-16 15:30:12 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-16 15:30:14 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-16 15:30:18 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-16 17:33:02 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-16 17:33:16 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-16 17:33:18 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-16 17:33:24 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-16 17:33:27 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-16 17:33:29 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-16 17:33:34 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-16 17:33:35 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-16 17:33:37 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-16 17:33:40 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-17 11:32:48 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-17 11:32:51 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-17 11:32:54 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-17 11:33:01 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-17 11:33:02 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-17 11:33:04 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-17 11:33:07 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-17 11:33:08 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-17 11:33:11 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-17 11:33:14 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-17 11:39:05 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-17 11:39:08 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-17 11:39:10 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-17 11:39:15 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-17 11:39:16 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-17 11:39:19 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-17 11:39:21 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-17 11:39:22 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-17 11:39:24 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-17 11:39:27 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-17 16:22:42 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-17 16:22:46 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-17 16:22:48 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-17 16:22:53 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-17 16:22:55 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-17 16:22:57 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-17 16:23:04 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-17 16:23:05 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-17 16:23:08 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-17 16:23:10 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-17 16:25:38 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-17 16:25:39 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-17 16:25:41 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-17 16:25:45 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-17 16:25:45 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-17 16:25:48 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-17 16:25:50 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-17 16:25:51 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-17 16:25:53 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-17 16:25:55 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-17 19:13:24 [main] INFO  UdemyTest:35 - driver is initialized
+2020-07-17 19:13:29 [main] INFO  UdemyTest:39 - Navigated to homepage
+2020-07-17 19:13:32 [main] INFO  UdemyTest:45 - Navigated to homepage
+2020-07-17 19:13:38 [main] INFO  UdemyTest:59 - Correct course searched
+2020-07-17 19:13:39 [main] INFO  UdemyTest:74 - Filters applied for level=beginner
+2020-07-17 19:13:42 [main] INFO  UdemyTest:89 - Filters applied for language=English
+2020-07-17 19:13:55 [main] INFO  UdemyTest:101 - Available courses printed in FinalOutput.xlxs
+2020-07-17 19:13:57 [main] ERROR UdemyTest:116 - Wrong course is searched
+2020-07-17 19:13:58 [main] ERROR UdemyTest:128 - filter for level selected is wrong
+2020-07-17 19:14:01 [main] ERROR UdemyTest:140 - filter for language selected is wrong
+2020-07-17 19:55:02 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-17 19:55:05 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-17 19:55:08 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-17 19:55:12 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-17 19:55:13 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-17 19:55:15 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-17 19:55:22 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-17 19:55:23 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-17 19:55:25 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-17 19:55:29 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-17 20:18:43 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-17 20:18:45 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-17 20:18:47 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-17 20:18:52 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-17 20:18:52 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-17 20:18:54 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-17 20:18:59 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-17 20:19:00 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-17 20:19:02 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-17 20:19:03 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-17 21:00:11 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-17 21:00:14 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-17 21:00:16 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-17 21:00:54 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-17 21:00:54 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-17 21:00:57 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-17 21:01:01 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-17 21:01:03 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-17 21:01:06 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-17 21:01:08 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-17 22:02:46 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-17 22:02:50 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-17 22:02:53 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-17 22:02:58 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-17 22:02:58 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-17 22:03:01 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-17 22:03:07 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-17 22:03:09 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-17 22:03:11 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-17 22:03:14 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-17 22:05:31 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-17 22:10:12 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-17 22:10:15 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-17 22:10:17 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-17 22:10:22 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-17 22:10:23 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-17 22:10:25 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-17 22:10:28 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-17 22:10:29 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-17 22:10:33 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-17 22:10:36 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-17 22:12:18 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-17 22:12:20 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-17 22:12:23 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-17 22:12:27 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-17 22:12:28 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-17 22:12:31 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-17 22:12:32 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-17 22:12:33 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-17 22:12:36 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-17 22:12:39 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-18 12:00:51 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 12:00:54 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 12:00:56 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 12:01:01 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 12:01:02 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 12:01:05 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 12:01:12 [main] INFO  UdemyTest:99 - Available courses printed in FinalOutput.xlxs
+2020-07-18 12:01:13 [main] ERROR UdemyTest:114 - Wrong course is searched
+2020-07-18 12:01:15 [main] ERROR UdemyTest:126 - filter for level selected is wrong
+2020-07-18 12:01:19 [main] ERROR UdemyTest:138 - filter for language selected is wrong
+2020-07-18 16:18:34 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 16:18:36 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 16:18:38 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 16:18:42 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 16:18:42 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 16:18:44 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 16:18:48 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 16:18:49 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-18 16:18:50 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 16:18:52 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 16:47:39 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 16:47:41 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 16:47:44 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 16:47:47 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 16:47:48 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 16:47:52 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 16:47:53 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 16:47:56 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 16:47:58 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 16:49:04 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 16:49:09 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 16:49:11 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 16:49:15 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 16:49:16 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 16:49:18 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 16:49:19 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 16:51:00 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 16:51:05 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 16:51:07 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 16:51:11 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 16:51:12 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 16:51:14 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 16:51:16 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 16:54:40 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 16:54:45 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 16:54:48 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 16:54:51 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 16:54:52 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 16:54:55 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 16:54:56 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 16:54:57 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-18 16:54:59 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 16:55:02 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 16:58:54 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 16:58:58 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 16:59:01 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 16:59:05 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 16:59:06 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 16:59:09 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 16:59:10 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 16:59:11 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-18 16:59:13 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 16:59:16 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 17:17:48 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 17:17:51 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 17:17:53 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 17:17:57 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 17:17:57 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 17:17:59 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 17:18:01 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 17:18:02 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-18 17:18:04 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 17:18:07 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 18:17:03 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 18:17:09 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 18:17:11 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 18:17:14 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 18:17:15 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 18:17:17 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 18:17:18 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 18:17:22 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 18:17:24 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 18:35:04 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 18:35:29 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 18:35:31 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 18:35:35 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 18:35:35 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 18:35:39 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 18:35:40 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 18:35:42 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-18 18:35:44 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 18:35:46 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 18:40:46 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 18:41:04 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 18:41:06 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 18:41:09 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 18:41:09 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 18:41:11 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 18:41:12 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 18:41:14 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-18 18:41:16 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 18:41:17 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-18 20:21:23 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-18 20:21:26 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-18 20:21:29 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-18 20:21:34 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-18 20:21:35 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-18 20:21:37 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-18 20:21:44 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-18 20:21:45 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-18 20:21:52 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-18 20:22:03 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-19 19:35:10 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-19 19:35:14 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-19 19:35:16 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-19 19:35:21 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-19 19:35:21 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-19 19:35:25 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-19 19:35:31 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-19 19:35:32 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-19 19:35:35 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-19 19:35:37 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-19 21:40:36 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-19 21:40:43 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-19 21:40:46 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-19 21:40:51 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-19 21:40:53 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-19 21:40:55 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-19 21:41:01 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-19 21:41:02 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-19 21:41:05 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-19 21:41:08 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 13:53:00 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 13:53:03 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 13:53:06 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 13:53:11 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 13:53:13 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 13:53:16 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 13:53:21 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 13:53:22 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 13:53:24 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 13:53:27 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 14:11:49 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 14:11:54 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 14:11:57 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 14:12:01 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 14:12:02 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 14:12:05 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 14:12:07 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 14:12:08 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 14:12:10 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 14:12:13 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 14:21:27 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 14:21:39 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 14:21:41 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 14:21:45 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 14:21:46 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 14:21:48 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 14:21:49 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 14:21:50 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 14:21:52 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 14:21:54 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 14:25:47 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 14:25:49 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 14:25:51 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 14:25:55 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 14:25:56 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 14:25:57 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 14:25:59 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 14:26:00 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 14:26:02 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 14:26:05 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 14:34:42 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 14:34:45 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 14:34:48 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 14:34:51 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 14:34:51 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 14:34:52 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 14:34:54 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 14:34:55 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 14:34:57 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 14:34:59 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 14:37:13 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 14:37:18 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 14:37:20 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 14:37:25 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 14:37:25 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 14:37:28 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 14:37:29 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 14:37:30 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 14:37:32 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 14:37:35 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 15:46:59 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 15:47:12 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 15:47:14 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 15:47:19 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 15:47:20 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 15:47:22 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 15:47:28 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 15:47:29 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 15:47:31 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 15:47:34 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 15:52:08 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 15:52:14 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 15:52:16 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 15:52:21 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 15:52:26 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 15:52:37 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 15:52:39 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 15:52:40 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 15:52:49 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 15:54:49 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 15:54:56 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 15:54:58 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 15:55:02 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 15:55:02 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 15:55:04 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 15:55:07 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 15:55:08 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 15:55:10 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 15:55:13 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 15:59:41 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 15:59:47 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 15:59:49 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 15:59:54 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 15:59:54 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 15:59:57 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 15:59:58 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 15:59:59 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 16:00:02 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 16:00:04 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 16:12:55 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 16:13:00 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 16:13:02 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 16:13:06 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 16:13:07 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 16:13:09 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 16:13:10 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 16:13:12 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-20 16:13:14 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 16:13:16 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-20 16:15:01 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-20 16:15:06 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-20 16:15:08 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-20 16:15:14 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-20 16:15:15 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-20 16:15:17 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-20 16:15:19 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-20 16:15:22 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-20 16:15:24 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-26 14:15:18 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 14:15:19 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 14:15:21 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 14:16:26 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-26 14:16:37 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-26 17:09:43 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 17:09:46 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 17:09:49 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 17:09:53 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-26 17:10:21 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-26 18:54:24 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 18:54:28 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 18:54:30 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 18:54:33 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-26 18:54:34 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-26 18:54:35 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-26 18:54:39 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-26 18:54:40 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-26 18:54:42 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-26 18:58:09 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 18:58:12 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 18:58:14 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 18:58:17 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-26 18:58:18 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-26 18:58:20 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-26 18:58:22 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-26 18:58:23 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-26 18:58:25 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-26 19:01:52 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 19:01:53 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 19:01:56 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 19:01:59 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-26 19:01:59 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-26 19:02:01 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-26 19:02:03 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-26 19:02:03 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-26 19:02:05 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-26 19:02:07 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-26 19:03:09 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 19:03:11 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 19:03:13 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 19:03:16 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-26 19:03:17 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-26 19:03:20 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-26 19:03:22 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-26 19:03:23 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-26 19:03:24 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-26 19:03:27 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-26 19:04:39 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 19:04:44 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 19:04:46 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 19:04:49 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-26 19:04:49 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-26 19:04:51 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-26 19:04:53 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-26 19:04:54 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-26 19:04:56 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-26 19:04:58 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-26 20:19:52 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-26 20:19:54 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-26 20:19:56 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-26 20:20:00 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-26 20:20:00 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-26 20:20:02 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-26 20:20:08 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-26 20:20:09 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-26 20:20:11 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-26 20:20:13 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-28 10:13:24 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-28 10:13:26 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-28 10:13:29 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-28 10:13:34 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-28 10:13:36 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-28 10:13:38 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-28 10:13:44 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-28 10:13:45 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-28 10:13:47 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-28 10:13:50 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-28 13:30:54 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-28 13:30:57 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-28 13:30:59 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-28 13:31:06 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-28 13:31:07 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-28 13:31:09 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-28 13:31:15 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-28 13:31:16 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-28 13:31:18 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-28 13:31:20 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-28 20:13:09 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-28 20:13:12 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-28 20:13:14 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-28 20:13:19 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-28 20:13:20 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-28 20:13:22 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-28 20:13:25 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-28 20:13:27 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-28 20:13:29 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-28 20:13:31 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-28 21:51:43 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-28 21:51:46 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-28 21:51:48 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-28 21:51:52 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-28 21:51:53 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-28 21:51:56 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-28 21:51:58 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-28 21:51:59 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-28 21:52:01 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-28 21:52:04 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-29 16:46:47 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-29 16:46:49 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-29 16:46:51 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-29 16:46:55 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-29 16:46:56 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-29 16:46:59 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-29 16:47:13 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-29 16:47:15 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-29 16:47:17 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-29 16:47:51 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-29 16:47:55 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-29 16:47:57 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-29 16:48:01 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-29 16:48:02 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-29 16:48:04 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-29 16:48:16 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-29 16:48:18 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-29 16:48:20 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-29 16:49:00 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-29 16:49:01 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-29 16:49:04 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-29 16:49:07 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-29 16:49:07 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-29 16:49:09 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-29 16:49:21 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-29 16:49:23 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-29 16:49:26 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-29 16:50:57 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-29 16:51:01 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-29 16:51:03 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-29 16:51:07 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-29 16:51:08 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-29 16:51:10 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-29 16:51:22 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-29 16:51:24 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-29 16:51:27 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-29 17:03:36 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-29 17:03:38 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-29 17:03:41 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-29 17:03:44 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-29 17:03:44 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-29 17:03:47 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-29 17:03:59 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-29 17:04:01 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-29 17:04:04 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-31 08:56:46 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-31 08:56:48 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-31 08:56:50 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-31 08:56:54 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-31 08:56:54 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-31 08:56:56 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-31 08:57:10 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-31 08:57:13 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-31 08:57:15 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-31 08:58:21 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-31 08:58:24 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-31 08:58:26 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-31 08:58:29 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-31 08:58:30 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-31 08:58:32 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-31 08:58:44 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-31 08:58:46 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-31 08:58:50 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-31 13:32:52 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-31 13:32:54 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-31 13:32:56 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-31 13:33:03 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-31 13:33:04 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-31 13:33:06 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-31 13:33:10 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-31 13:33:11 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-31 13:33:12 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-31 13:33:15 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-31 13:50:20 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-31 13:50:22 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-31 13:50:24 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-31 13:50:28 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-31 13:50:28 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-31 13:50:31 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-31 13:50:32 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-31 13:50:33 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-31 13:50:35 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-31 13:50:37 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-31 13:51:23 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-31 13:51:24 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-31 13:51:27 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-31 13:51:29 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-31 13:51:30 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-31 13:51:32 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-31 13:51:33 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-31 13:51:34 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-31 13:51:36 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-31 13:51:38 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-07-31 15:21:50 [main] INFO  UdemyTest:33 - driver is initialized
+2020-07-31 15:21:52 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-07-31 15:21:55 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-07-31 15:21:59 [main] INFO  UdemyTest:57 - Correct course searched
+2020-07-31 15:21:59 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-07-31 15:22:03 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-07-31 15:22:08 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-07-31 15:22:09 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-07-31 15:22:10 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-07-31 15:22:13 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 09:18:15 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 09:18:46 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 09:18:48 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 09:18:57 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 09:18:58 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 09:19:06 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 09:19:16 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 09:27:01 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 09:27:09 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 09:27:11 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 09:27:15 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 09:27:16 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 09:27:18 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 09:27:20 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 09:27:21 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 09:27:24 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 09:27:27 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 10:46:47 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 10:46:51 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 10:46:54 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 10:47:01 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 10:47:04 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 10:47:07 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 10:47:12 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 10:47:13 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 10:47:16 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 10:47:19 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 10:47:45 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 10:47:47 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 10:47:49 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 10:47:53 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 10:47:54 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 10:47:57 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 10:48:00 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 10:48:01 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 10:48:03 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 10:48:06 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 10:49:18 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 10:49:20 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 10:49:22 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 10:49:25 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 10:49:26 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 10:49:30 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 10:49:32 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 10:49:33 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 10:49:35 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 10:49:38 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 10:59:34 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 10:59:37 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 10:59:39 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 10:59:42 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 10:59:42 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 10:59:44 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 10:59:46 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 10:59:47 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 10:59:49 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 10:59:51 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 12:51:00 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 12:51:03 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 12:51:05 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 12:51:09 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 12:51:10 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 12:51:12 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 12:51:15 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 12:51:16 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 12:51:19 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 12:51:21 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 12:52:49 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 12:52:56 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 12:52:58 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 12:53:03 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 12:53:04 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 12:53:06 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 12:53:08 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 12:53:09 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 12:53:14 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 12:53:16 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 13:12:38 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 13:12:41 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 13:12:43 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 13:12:47 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 13:12:48 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 13:12:50 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 13:12:51 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 13:12:52 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 13:12:55 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 13:12:57 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 13:29:41 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 13:29:51 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 13:29:54 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 13:29:58 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 13:29:59 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 13:30:01 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 13:30:04 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 13:30:05 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 13:30:07 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 13:30:10 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 14:00:27 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 14:00:39 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 14:00:42 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 14:00:46 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 14:00:46 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 14:00:48 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 14:00:50 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 14:00:51 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 14:00:54 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 14:00:57 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 14:17:06 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 14:17:11 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 14:17:13 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 14:17:18 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 14:17:19 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 14:17:21 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 14:17:23 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 14:17:24 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 14:17:27 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 14:17:29 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 15:10:39 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 15:10:41 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 15:10:43 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 15:10:49 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 15:10:51 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 15:10:53 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 15:10:59 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 15:11:01 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 15:11:04 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 15:11:06 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 15:17:23 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 15:17:27 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 15:17:29 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 15:17:36 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 15:17:38 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 15:17:42 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 15:17:52 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 15:17:54 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 15:17:57 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 15:18:00 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-04 15:19:50 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-04 15:19:53 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-04 15:19:55 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-04 15:19:59 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-04 15:20:03 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-04 15:20:04 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-04 15:20:07 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-04 15:20:09 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-04 15:20:11 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-04 15:20:13 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-06 20:39:26 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-06 20:39:28 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-06 20:39:30 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-06 20:39:34 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-06 20:39:35 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-06 20:39:37 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-06 20:39:40 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-06 20:39:41 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-06 20:39:43 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-06 20:39:46 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-06 21:10:20 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-06 21:10:23 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-06 21:10:25 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-06 21:10:28 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-06 21:10:31 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-06 21:10:33 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-06 21:10:36 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-06 21:10:38 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-06 21:10:41 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-06 21:10:43 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-06 21:12:36 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-06 21:12:40 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-06 21:12:42 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-06 21:12:45 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-06 21:12:48 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-06 21:12:50 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-06 21:12:53 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-06 21:12:55 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-06 21:12:57 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-06 21:13:00 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-06 21:19:19 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-06 21:19:24 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-06 21:19:26 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-06 21:19:29 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-06 21:19:31 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-06 21:19:33 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-06 21:19:36 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-06 21:19:38 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-06 21:19:41 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-06 21:19:43 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-08 20:32:19 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-08 20:32:21 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-08 20:32:23 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-08 20:32:27 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-08 20:32:30 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-08 20:32:32 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-08 20:32:34 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-08 20:32:36 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-08 20:32:38 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-08 20:32:40 [main] ERROR UdemyTest:139 - filter for language selected is wrong
+2020-08-08 20:33:54 [main] INFO  UdemyTest:33 - driver is initialized
+2020-08-08 20:33:59 [main] INFO  UdemyTest:37 - Navigated to homepage
+2020-08-08 20:33:59 [main] INFO  UdemyTest:43 - Navigated to homepage
+2020-08-08 20:34:03 [main] INFO  UdemyTest:57 - Correct course searched
+2020-08-08 20:34:04 [main] INFO  UdemyTest:72 - Filters applied for level=beginner
+2020-08-08 20:34:06 [main] INFO  UdemyTest:87 - Filters applied for language=English
+2020-08-08 20:34:08 [main] INFO  UdemyTest:100 - Available courses printed in FinalOutput.xlxs
+2020-08-08 20:34:09 [main] ERROR UdemyTest:115 - Wrong course is searched
+2020-08-08 20:34:11 [main] ERROR UdemyTest:127 - filter for level selected is wrong
+2020-08-08 20:34:13 [main] ERROR UdemyTest:139 - filter for language selected is wrong

@@ -1,0 +1,7 @@
+resources\BrowserSetup.class
+resources\ExtentRepoterNG.class
+resources\ForValues.class
+resources\Screenshot.class
+pageObjects\UdemyPagesFunctionality.class
+resources\CreatingWorkbook.class
+pageObjects\SearchWebDevelopement.class
