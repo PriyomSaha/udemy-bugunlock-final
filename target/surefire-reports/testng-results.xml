@@ -1,49 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-04T15:19:45 IST" name="Surefire suite" finished-at="2020-08-04T15:20:14 IST" duration-ms="29483">
+  <suite started-at="2020-08-11T13:28:55 IST" name="Suite" finished-at="2020-08-11T13:29:59 IST" duration-ms="63647">
     <groups>
     </groups>
-    <test started-at="2020-08-04T15:19:45 IST" name="Surefire test" finished-at="2020-08-04T15:20:14 IST" duration-ms="29483">
+    <test started-at="2020-08-11T13:28:55 IST" name="Test" finished-at="2020-08-11T13:29:59 IST" duration-ms="63647">
       <class name="MyFirstProject.AutomatingUdemy.UdemyTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:19:45 IST" name="setup" finished-at="2020-08-04T15:19:55 IST" duration-ms="10215" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:28:55 IST" name="setup" finished-at="2020-08-11T13:29:08 IST" duration-ms="13384" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="correctSearchWeb()[pri:0, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:19:55 IST" name="correctSearchWeb" finished-at="2020-08-04T15:19:59 IST" duration-ms="3618" status="PASS">
+        <test-method signature="correctSearchWeb()[pri:0, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:08 IST" name="correctSearchWeb" finished-at="2020-08-11T13:29:13 IST" duration-ms="4304" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- correctSearchWeb -->
-        <test-method signature="filterCheckForLevel()[pri:1, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:20:02 IST" name="filterCheckForLevel" finished-at="2020-08-04T15:20:03 IST" duration-ms="615" status="PASS">
+        <test-method signature="filterCheckForLevel()[pri:1, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:18 IST" name="filterCheckForLevel" finished-at="2020-08-11T13:29:18 IST" duration-ms="901" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- filterCheckForLevel -->
-        <test-method signature="filterCheckForLanguage()[pri:2, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:20:04 IST" name="filterCheckForLanguage" finished-at="2020-08-04T15:20:04 IST" duration-ms="666" status="PASS">
+        <test-method signature="filterCheckForLanguage()[pri:2, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:23 IST" name="filterCheckForLanguage" finished-at="2020-08-11T13:29:24 IST" duration-ms="784" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- filterCheckForLanguage -->
-        <test-method signature="printConsole()[pri:4, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:20:05 IST" name="printConsole" finished-at="2020-08-04T15:20:07 IST" duration-ms="2173" status="PASS">
+        <test-method signature="printConsole()[pri:3, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:29 IST" name="printConsole" finished-at="2020-08-11T13:29:31 IST" duration-ms="1851" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printConsole -->
-        <test-method signature="wrongSearchWeb()[pri:5, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:20:08 IST" name="wrongSearchWeb" finished-at="2020-08-04T15:20:09 IST" duration-ms="1515" status="PASS">
+        <test-method signature="wrongSearchWeb()[pri:4, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:35 IST" name="wrongSearchWeb" finished-at="2020-08-11T13:29:37 IST" duration-ms="1160" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wrongSearchWeb -->
-        <test-method signature="negativeFilterCheckForLevel()[pri:6, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:20:10 IST" name="negativeFilterCheckForLevel" finished-at="2020-08-04T15:20:11 IST" duration-ms="1403" status="PASS">
+        <test-method signature="negativeFilterCheckForLevel()[pri:5, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:41 IST" name="negativeFilterCheckForLevel" finished-at="2020-08-11T13:29:42 IST" duration-ms="707" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- negativeFilterCheckForLevel -->
-        <test-method signature="negativeFilterCheckForLanguage2()[pri:7, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:20:12 IST" name="negativeFilterCheckForLanguage2" finished-at="2020-08-04T15:20:13 IST" duration-ms="1827" status="PASS">
+        <test-method signature="negativeFilterCheckForLanguage2()[pri:6, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:47 IST" name="negativeFilterCheckForLanguage2" finished-at="2020-08-11T13:29:48 IST" duration-ms="892" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- negativeFilterCheckForLanguage2 -->
-        <test-method is-config="true" signature="exit()[pri:0, instance:MyFirstProject.AutomatingUdemy.UdemyTest@63eef88a]" started-at="2020-08-04T15:20:14 IST" name="exit" finished-at="2020-08-04T15:20:14 IST" duration-ms="181" status="PASS">
+        <test-method signature="noCourseSearched()[pri:7, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:52 IST" name="noCourseSearched" finished-at="2020-08-11T13:29:53 IST" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noCourseSearched -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:MyFirstProject.AutomatingUdemy.UdemyTest@6492fab5]" started-at="2020-08-11T13:29:58 IST" name="exit" finished-at="2020-08-11T13:29:59 IST" duration-ms="654" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exit -->
       </class> <!-- MyFirstProject.AutomatingUdemy.UdemyTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

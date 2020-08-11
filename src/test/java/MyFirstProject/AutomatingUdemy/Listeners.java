@@ -42,6 +42,11 @@ WebDriver driver=null;
 		String testMethodName=result.getMethod().getMethodName();
 		
 		captureScreenshot(driver,testMethodName);
+		try {
+			test.addScreenCaptureFromPath(System.getProperty("user.dir")+"\\Output\\Screenshots\\"+testMethodName+".png");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@Override

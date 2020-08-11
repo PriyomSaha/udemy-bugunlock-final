@@ -21,7 +21,9 @@ import org.testng.annotations.Listeners;
 public class UdemyTest extends BrowserSetup {
 
 	WebDriver driver;
-	SearchWebDevelopement obj;
+	SearchWebDevelopement obj1;
+	UdemyPagesFunctionality obj2;
+
 	private static final Logger log = LogManager.getLogger(UdemyTest.class);
 
 
@@ -29,17 +31,11 @@ public class UdemyTest extends BrowserSetup {
 	public void setup() throws IOException
 	{
 		driver=initializeDriver();
-
 		log.info("driver is initialized");
-
 		driver.get(prop.getProperty("url"));
-
 		log.info("Navigated to homepage");
-
-		UdemyPagesFunctionality ob=new UdemyPagesFunctionality(driver);
-
-		ob.maximizeWindow(driver);
-
+		obj2=new UdemyPagesFunctionality(driver);
+		obj2.maximizeWindow(driver);
 		log.info("Navigated to homepage");
 	}
 
@@ -47,13 +43,10 @@ public class UdemyTest extends BrowserSetup {
 	@Test(priority=0)
 	public void correctSearchWeb()
 	{
-		 obj=new SearchWebDevelopement(driver);
-
-		obj.Search("web developement");
-
+		obj1=new SearchWebDevelopement(driver);
+		obj1.Search("web developement");
 		boolean status=driver.findElement(By.xpath("//select[@name='sort']")).isDisplayed();
 		Assert.assertTrue(status);
-
 		log.info("Correct course searched");
 
 	}
@@ -62,13 +55,10 @@ public class UdemyTest extends BrowserSetup {
 	@Test(priority=1)
 	public void filterCheckForLevel()
 	{
-		UdemyPagesFunctionality ob=new UdemyPagesFunctionality(driver);
-
-		ob.selectFiltersForLevel();
-
+		obj2=new UdemyPagesFunctionality(driver);
+		obj2.selectFiltersForLevel();
 		boolean s=driver.getCurrentUrl().contains("beginner");
 		Assert.assertTrue(s);
-
 		log.info("Filters applied for level=beginner");
 
 	}
@@ -77,19 +67,16 @@ public class UdemyTest extends BrowserSetup {
 	@Test(priority=2)
 	public void filterCheckForLanguage()
 	{
-		UdemyPagesFunctionality ob=new UdemyPagesFunctionality(driver);
-
-		ob.selectFiltersForLangage();
-
+		obj2=new UdemyPagesFunctionality(driver);
+		obj2.selectFiltersForLangage();
 		boolean s=driver.getCurrentUrl().contains("lang=en");
 		Assert.assertTrue(s);
-
 		log.info("Filters applied for language=English");
 
 	}
 
 
-	@Test(priority=4)
+	@Test(priority=3)
 	public void printConsole() throws IOException
 	{
 
@@ -104,39 +91,46 @@ public class UdemyTest extends BrowserSetup {
 
 //	NEGATIVE TESTS:-
 
-	@Test(priority=5)
+	@Test(priority=4)
 	public void wrongSearchWeb()
 	{
-		UdemyPagesFunctionality ob=new UdemyPagesFunctionality(driver);
-		ob.searchJava();
+		obj1=new SearchWebDevelopement(driver);
+		obj1.searchJava();
 		boolean s=driver.getCurrentUrl().contains("development");
 		Assert.assertFalse(s);
-
 		log.error("Wrong course is searched");
 	}
 
 
-	@Test(priority=6)
+	@Test(priority=5)
 	public void negativeFilterCheckForLevel()
 	{
-		UdemyPagesFunctionality ob=new UdemyPagesFunctionality(driver);
-		ob.selectFiltersForLevelIntermediate();
-
+		obj2=new UdemyPagesFunctionality(driver);
+		obj2.selectFiltersForLevelIntermediate();
 		boolean status=driver.getCurrentUrl().contains("beginner");
 		Assert.assertFalse(status);
 		log.error("filter for level selected is wrong");
 	}
 
 
-	@Test(priority=7)
+	@Test(priority=6)
 	public void negativeFilterCheckForLanguage2()
 	{
-		UdemyPagesFunctionality ob=new UdemyPagesFunctionality(driver);
-	    ob.selectFiltersForLangageBahasa();
+		obj2=new UdemyPagesFunctionality(driver);
+		obj2.selectFiltersForLangageSpanish();
+		boolean status=driver.getCurrentUrl().contains("lang=en");
+		Assert.assertFalse(status);
+		log.error("filter for language selected is wrong");
+	}
 
-	    boolean status=driver.getCurrentUrl().contains("lang=en");
-	    Assert.assertFalse(status);
-	    log.error("filter for language selected is wrong");
+	@Test(priority=7)
+	public void noCourseSearched()
+	{
+		obj1=new SearchWebDevelopement(driver);
+		obj1.searchNoText();
+		boolean s=driver.getCurrentUrl().contains("development");
+		Assert.assertFalse(s);
+		log.error("No course searched");
 	}
 
 
