@@ -1,8 +1,9 @@
 package MyFirstProject.AutomatingUdemy;
 
 
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import pageObjects.SearchWebDevelopement;
 import pageObjects.UdemyPagesFunctionality;
 import resources.BrowserSetup;
@@ -12,9 +13,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Listeners;
 
 @Listeners(MyFirstProject.AutomatingUdemy.Listeners.class)
 
@@ -28,9 +26,10 @@ public class UdemyTest extends BrowserSetup {
 
 
 	@BeforeTest
-	public void setup() throws IOException
+	@Parameters("browserName")
+	public void setup(String browserName) throws IOException
 	{
-		driver=initializeDriver();
+		driver=initializeDriver(browserName);
 		log.info("driver is initialized");
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to homepage");

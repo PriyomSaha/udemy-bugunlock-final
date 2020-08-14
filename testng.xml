@@ -6,6 +6,7 @@
 	
 </listeners>
   <test thread-count="5" name="Test">
+    <parameter name="browserName"  value="chrome"/>
     <classes>
       <class name="MyFirstProject.AutomatingUdemy.UdemyTest"/>
     </classes>

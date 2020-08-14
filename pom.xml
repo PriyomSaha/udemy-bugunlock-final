@@ -153,6 +153,10 @@
                       <!--suppress UnresolvedMavenProperty -->
                       <suiteXmlFile>testng.xml</suiteXmlFile>
                   </suiteXmlFiles>
+                  <systemPropertyVariables>
+                      <!--suppress UnresolvedMavenProperty -->
+                      <browser>${browserName}</browser>
+                  </systemPropertyVariables>
               </configuration>
           </plugin>
 
